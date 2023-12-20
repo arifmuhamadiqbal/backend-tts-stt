@@ -1,4 +1,4 @@
-# Full Stack NLP App
+# Full Stack NLP App (Backend)
 
 Tech :
 - Python
