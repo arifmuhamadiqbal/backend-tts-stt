@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ### Jalankan program
 
 ```
-pyhton app.py
+python app.py
 ```
